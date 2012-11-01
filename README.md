@@ -1,4 +1,8 @@
 Tunnel-Vision
 =============
 
-This is the code for the project published in Hyperrhiz. I know the code is a big mess (nothing like rewriting a file a dozen times to mess up any/all readability), but it works. I'll try to clean it up in the future.
+This is all of the code that was used to generate the project, "Tunnel Vision: A Cybertextual Interpretation of Mark Strand's 'The Tunnel'," which is published in the journal, Hyperrhiz: New Media Cultures (Issue 09). The project and the essay that was also published in this issue were co-developed with David Gruber. The published project and essay can be found at:
+http://www.hyperrhiz.net/hyperrhiz09
+
+This project is based on a creative application of Justin Windle's "AS3 Webcam Motion Tracking" library, which can be found at:
+http://blog.soulwire.co.uk/code/actionscript-3/webcam-motion-detection-tracking
